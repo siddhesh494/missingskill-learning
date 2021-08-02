@@ -4,10 +4,8 @@ Git is an open source software which is used by developers to contribute to proj
 It tracks all the changes done in the source file, and you can also undo or jump to specific changes. We can also see which person has contributed which part of the code.
 
 <br />
-<br />
 
 # **Git commands**
-<br />
 
  ## 1. Basic commands used in local repository
 
@@ -22,8 +20,6 @@ It tracks all the changes done in the source file, and you can also undo or jump
 |git status                         |Check status                                           |
 |git log                            |View history of all commits                            |
 
-<br />
-
 
  ## 2. Command use in sharing and updating in Remote repository
 
@@ -35,7 +31,6 @@ It tracks all the changes done in the source file, and you can also undo or jump
 | git pull origin <branch_name>          | Pull changes from remote repository                                           |
 | git push origin --delete <branch_name> | Delete a remote branch                                                        |
 
-<br />
   
  ## 3. Command use in sharing and updating in Remote repository
 
@@ -53,7 +48,6 @@ It tracks all the changes done in the source file, and you can also undo or jump
 | git stash                                 | Put current file into stash           |
 | git stash pop                             | Pop the file from stash               |
 
-<br/>
 <br/>
 
 # **Story of why we need to use git**
