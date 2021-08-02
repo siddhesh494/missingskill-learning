@@ -40,13 +40,13 @@
 
 ## **Module 4: Javascript**
 
-### **4.1 - Javascript history and some basic concepts**
+### **4.1 - [Javascript history and some basic concepts](./Javascript/4.1.md)**
 * History
 * Control Structure
 * Operator in javascript
 * Tech Debt
 
-### **4.2 - Variables**
+### **4.2 - [Variables](./Javascript/4.2.md)**
 * Variable data type
     * Primitive data type
         * Call/Copy by value
@@ -61,7 +61,8 @@
 
 ### **4.3 - Function**
 * Properties
-* Type of function in javascript
+* First class function
+* Type of function
     * Function declaration
     * Function assignment
     * Higher order function
