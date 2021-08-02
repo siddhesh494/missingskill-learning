@@ -9,7 +9,7 @@ It tracks all the changes done in the source file, and you can also undo or jump
 # **Git commands**
 <br />
 
-> ## 1. Basic commands used in local repository
+ ## 1. Basic commands used in local repository
 
 |**Command**                        |**Description**                                        |
 |:----------------------------------|:------------------------------------------------------|
@@ -25,7 +25,7 @@ It tracks all the changes done in the source file, and you can also undo or jump
 <br />
 
 
-> ## 2. Command use in sharing and updating in Remote repository
+ ## 2. Command use in sharing and updating in Remote repository
 
 | **Command**                            | **Description**                                                               |
 |----------------------------------------|-------------------------------------------------------------------------------|
@@ -37,7 +37,7 @@ It tracks all the changes done in the source file, and you can also undo or jump
 
 <br />
   
-> ## 3. Command use in sharing and updating in Remote repository
+ ## 3. Command use in sharing and updating in Remote repository
 
 | **Command**                               | **Description**                       |
 |-------------------------------------------|---------------------------------------|
@@ -57,18 +57,39 @@ It tracks all the changes done in the source file, and you can also undo or jump
 <br/>
 
 # **Story of why we need to use git**
-There are 4 developers named as Ramesh, Suresh, Rakesh, and Rham. They decided to meet and discuss a new application.
+## There are 4 developers named as Ramesh, Suresh, Rakesh, and Rham. They decided to meet and discuss a new application.
 
 ![image](./image/1.jpg)
-
-They list down all the features that need to be developed and divide equally amongst them and start working individually on assigned features.
+<br>
+## They list down all the features that need to be developed and divide equally amongst them and start working individually on assigned features.
+<br>
 
 ![image](./image/2.jpg)
+<br>
 
-After 2 week they finish all their work and decide to meet and copy paste their work in a single project.
+## After 2 week they finish all their work and decide to meet and copy paste their work in a single project.
+<br>
 
 ![image](./image/3.jpg)
+<br>
 
-2 days later.......
+## 2 days later.......
+<br>
+
+![image](./image/4.jpg)
+<br>
+
+## While they are arguing a pro developer Raj passes by.....
+<br>
+
+![image](./image/4.jpg)
+<br>
+
+![image](./image/5.jpg)
+
+
+## Raj started explaining all the commands about git
+
+**Moral of the story:-** Before starting working on any project we have to learn about git and its command so that your team members can work simultaneously on the same project. 
 
 
