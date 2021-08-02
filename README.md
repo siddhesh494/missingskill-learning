@@ -3,9 +3,10 @@
 ## **Module 1: [Linux](./Linux/linux.md)**
 
 * History
-* Popular Linux Distro
-* File System
+* Distribution
 * Commands in Linux
+* File System
+
 
 <br/>
 
