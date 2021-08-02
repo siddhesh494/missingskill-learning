@@ -59,7 +59,7 @@
 * Falsy and Truthy value
 * Special arithmetic and logical operation
 
-### **4.3 - Function**
+### **4.3 - [Function](./Javascript/4.3.md)**
 * Properties
 * First class function
 * Type of function
