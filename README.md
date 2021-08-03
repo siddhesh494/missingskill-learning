@@ -49,9 +49,9 @@
 ### **4.2 - [Variables](./Javascript/4.2.md)**
 * Variable data type
     * Primitive data type
-        * Call/Copy by value
+        * Pass/Copy by value
     * Non primitive data type
-        * Call/Copy by reference
+        * Pass/Copy by reference
 * Type of variable
 * What do you mean by hoisting
 * Functional scope
