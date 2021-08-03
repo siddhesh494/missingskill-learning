@@ -1,18 +1,19 @@
-# **What is git?**
+# **Git**
+## **What is git?**
 Git is an open source software which is used by developers to contribute to projects simultaneously. It allows collaboration easier, allows changes by multiple people and it can be merged into one source file/Repository.
 
 It tracks all the changes done in the source file, and you can also undo or jump to specific changes. We can also see which person has contributed which part of the code.
 
 <br />
 
-# **Git commands**
+## **Git commands**
 
- ## 1. Basic commands used in local repository
+ ### 1. Basic commands used in local repository
 
 |**Command**                        |**Description**                                        |
 |:----------------------------------|:------------------------------------------------------|
-|git show <commit_id>               |Show the changes in all the fil(use after commit)      |
-|git add .                          |Add all the file to staging are                        |
+|git show <commit_id>               |Show the changes in all the file (use after commit)      |
+|git add .                          |Add all the file to staging area                        |
 |git add <file_name>                |Add specific file to staging area                      |
 |git commit -m “[commit message]”   |Commit changes from staging area to local repository   |
 |git diff                           |Show changes in all the files(use before commit)       |
@@ -21,7 +22,7 @@ It tracks all the changes done in the source file, and you can also undo or jump
 |git log                            |View history of all commits                            |
 
 
- ## 2. Command use in sharing and updating in Remote repository
+ ### 2. Command use in sharing and updating in Remote repository
 
 | **Command**                            | **Description**                                                               |
 |----------------------------------------|-------------------------------------------------------------------------------|
@@ -32,7 +33,7 @@ It tracks all the changes done in the source file, and you can also undo or jump
 | git push origin --delete <branch_name> | Delete a remote branch                                                        |
 
   
- ## 3. Command use in sharing and updating in Remote repository
+ ### 3. Branching, merging and some advance command
 
 | **Command**                               | **Description**                       |
 |-------------------------------------------|---------------------------------------|
@@ -50,8 +51,8 @@ It tracks all the changes done in the source file, and you can also undo or jump
 
 <br/>
 
-# **Story of why we need to use git**
-## There are 4 developers named as Ramesh, Suresh, Rakesh, and Rham. They decided to meet and discuss a new application.
+## **Story of why we need to use git**
+### There are 4 developers named as Ramesh, Suresh, Rakesh, and Rham. They decided to meet and discuss a new application.
 
 ![image](./image/1.jpg)
 <br>
@@ -61,28 +62,28 @@ It tracks all the changes done in the source file, and you can also undo or jump
 ![image](./image/2.jpg)
 <br>
 
-## After 2 week they finish all their work and decide to meet and copy paste their work in a single project.
+### After 2 week they finish all their work and decide to meet and copy paste their work in a single project.
 <br>
 
 ![image](./image/3.jpg)
 <br>
 
-## 2 days later.......
+### 2 days later.......
 <br>
 
 ![image](./image/4.jpg)
 <br>
 
-## While they are arguing a pro developer Raj passes by.....
-<br>
-
-![image](./image/4.jpg)
+### While they are arguing a pro developer Raj passes by.....
 <br>
 
 ![image](./image/5.jpg)
+<br>
+
+![image](./image/6.jpg)
 
 
-## Raj started explaining all the commands about git
+### Raj started explaining all the commands about git
 
 **Moral of the story:-** Before starting working on any project we have to learn about git and its command so that your team members can work simultaneously on the same project. 
 
