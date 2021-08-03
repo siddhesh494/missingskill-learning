@@ -71,7 +71,7 @@
     * Arrow Function
 * Things you need to remember when you are using function 
 
-### **4.4 - Javascript constructor and prototype**
+### **4.4 - [Javascript constructor and prototype](./Javascript/4.4.md)**
 * Function act as prototype
 * Method in prototype
 * Inheritance
