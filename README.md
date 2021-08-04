@@ -3,10 +3,10 @@
 ## **Module 1: [Linux](./Linux/linux.md)**
 
 * History
-* Distribution
+* Distributor
 * Commands in Linux
 * File System
-
+* [Mind map](./mindmap/linux.jpg)
 
 <br/>
 
@@ -21,7 +21,7 @@
 
 <br/>
 
-## **Module 3: [Basic Building Block of Web development Aplication](./BDB/bbb.md)**
+## **Module 3: [Basic Building Block of Web development Application](./BDB/bbb.md)**
 
 * IP Address
 * Port
@@ -35,6 +35,7 @@
 * Project management tool
 * Git Dev Workflow
 * Infrastructure
+* [Mind map](./mindmap/bbb.jpg)
 
 <br/>
 
@@ -61,7 +62,7 @@
 
 ### **4.3 - [Function](./Javascript/4.3.md)**
 * Properties
-* First class function
+* First class citizen
 * Type of function
     * Function declaration
     * Function assignment
@@ -90,6 +91,8 @@
     * Destructure operator
     * Spread and Destructure operator in function
     * String literals
+
+* [Mind map](./mindmap/javascript.jpg)
 
 
 

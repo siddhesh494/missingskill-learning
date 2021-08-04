@@ -14,7 +14,7 @@ It was created by IANA (Internet Assigned Number authority)
 IP + Port gives entry to the system
 ### Range
 * 0-1023 - (reserve port used by system)
-* 1024-4915 - (Application port/you can run application on this port)
+* 1024-49150 - (Application port/you can run application on this port)
     * 3000-9000 - (Most used port)
 * 49151-65535 - (Open port)
     * Should not use this port to run application
@@ -153,7 +153,8 @@ In 2 ways data can be stored
 * UAT(User acceptance test)/Staging (QA test entire application before deployment)
 * Production System
 
+<br/>
 
-
+**[Mind map](../mindmap/bbb.jpg)**
 
  

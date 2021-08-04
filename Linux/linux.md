@@ -6,7 +6,7 @@
 
 <br/>
 
-## **Distribution**
+## **Distributor**
 
 ### **Popular**
 * GNU/Linux
@@ -17,7 +17,7 @@
     * CentOS
     * Mint
 
-### **Other distribution**
+### **Other distributor**
 * DOS/Windows
 * Unix
 * Apple/Unix
@@ -54,7 +54,7 @@
 | /opt  | User software are stored                                      |
 | /proc | System level configuration stored                             |
 
-
+**[Mindmap of linux](../mindmap/linux.jpg)**
 
 
 
